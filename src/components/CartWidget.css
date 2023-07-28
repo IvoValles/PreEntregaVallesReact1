@@ -1,0 +1,15 @@
+.carritoCompras{
+    list-style: none;
+    text-decoration: none;
+}
+
+.diseñoNumero{
+    text-decoration: none;
+    text-decoration-line: none;
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: red;
+    border-radius: 100%;
+    font-weight: bold;
+}
